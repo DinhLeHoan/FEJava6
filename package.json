@@ -15,7 +15,6 @@
     "stompjs": "^2.3.3",
     "web-vitals": "^2.1.2"
   },
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -41,6 +40,7 @@
     ]
   },
   "devDependencies": {
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "mini-css-extract-plugin": "2.4.7"
   }
 }
